@@ -55,7 +55,7 @@ function App() {
   <Card.Body>
     <Card.Title>Vodacom</Card.Title>
     <Card.Text>
-      Vodacom
+    https://vodacom.co.za/siebel/app/prmportal
     </Card.Text>
     
   </Card.Body>
@@ -107,3 +107,7 @@ function App() {
 }
 
 export default App;
+
+
+
+
